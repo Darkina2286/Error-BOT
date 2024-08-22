@@ -1,0 +1,8 @@
+{
+"name": "Dark",
+"description": "Super Chumilo",
+"keywords": [
+"nodejs", "heroku", "bot", "spanish", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
+"termux", "superbot", "multi-device", "md", "official", "javascript", "ai-yaemori", "yaemori-ai", "ai"],
+"image": "heroku/nodejs",
+}
